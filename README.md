@@ -12,6 +12,8 @@
 3. **Alerta:** Si un equipo desconocido se conecta, cambia la consola a **rojo neón** y te avisa por voz mediante el altavoz.
 
 ---
+PORFA LEEEE EL ARCHIVO ANTI ERRORES ANTES DE EJECUTAR EL SCRIPT 
+
 
 ## Instalación y Uso Rápido
 
